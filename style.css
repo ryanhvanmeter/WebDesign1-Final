@@ -6,7 +6,6 @@ body {
   background-color: #1E1E1E;
   display: flex-wrap;
   padding: 0px;
-  faith: 0%;
 }
 img:hover {
   transform: scale(155%);
@@ -96,7 +95,8 @@ text-align:center;
   width: 100%;
 }
 .logo {
-  width: 10%;
+  width: 7%;
+  padding: 50px;
 }
 .portfolio {
   display: flex-wrap;
@@ -141,7 +141,6 @@ text-align:center;
 }
 .poster5 {
   height: 300px;
-  margin; 35px;
   padding-bottom: 30px;
 }
 .column {
