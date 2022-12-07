@@ -8,7 +8,24 @@ body {
   padding: 0px;
   faith: 0%;
 }
-
+img:hover {
+  transform: scale(155%);
+}
+h5:hover {
+text-shadow: black 7px 7px;
+}
+h4:hover {
+text-shadow: black 7px 7px;
+}
+h3:hover {
+text-shadow: black 7px 7px;
+}
+h2:hover {
+text-shadow: black 7px 7px;
+}
+h1:hover {
+text-shadow: black 7px 7px;
+}
 h1 {
   color: white;
   text-align: center;
