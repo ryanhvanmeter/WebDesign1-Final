@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Oswald:wght@300;400;500;600;700&display=swap');
+
+body {
+  margin: 0px;
+  justify-content: center;
+  background-color: #1E1E1E;
+  display: flex-wrap;
+  padding: 0px;
+  faith: 0%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  font-family: Oswald;
+  font-weight: 500;
+  font-size: 5.5vw;
+}
+h2 {
+  color: white;
+  font-family: Oswald;
+  font-size: 5vw;
+  margin-left: 20px;
+  font-weight: 700;
+}
+h3 {
+  color: white; 
+  font-family: Oswald;
+  margin-left: 20px;
+}
+h4 {
+  color: white;
+  font-family: Oswald;
+  font-size: 3vw;
+  text-align: center;
+}
+h5 {
+  color: white;
+  font-family: Oswald;
+  font-weight: 400;
+  font-size: 5vw;
+  text-align: center;
+}
+h6 {
+  color: white;
+  font-family: Monoton;
+  font-weight: 400;
+  font-size: 5.5vw;
+  text-align: center;
+}
+p {
+  margin-left: 25px;
+  margin-right: 25px;
+  color: white; 
+  font-family: Oswald;
+  align-content: center;
+}
+label {
+  font-family: Oswald; 
+  color: white;
+  font-size: 30px;
+}
+footer { 
+color: #ffffff; 
+height:100px; 
+text-align:center; 
+} 
+.herotext {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.hero-image {
+  margin: 0px;
+  background-size: cover;
+ background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 1)),
+    url("https://scontent-sea1-1.xx.fbcdn.net/v/t1.15752-9/316613074_1310794799494836_8969386621349110279_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=qO_v1IrFy5sAX-4MnxJ&_nc_ht=scontent-sea1-1.xx&oh=03_AdSAsU1k484un44AaRrY39Dk1GEfOSCChpxId_-A9JUnmA&oe=63B336BD");
+    height: 100%;
+  width: 100%;
+}
+.logo {
+  width: 10%;
+}
+.portfolio {
+  display: flex-wrap;
+  justify-content: space-evenly;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.logo1 {
+  width: 300px;
+  margin: 35px;
+}
+.logo2 {
+  width: 300px;
+   margin: 35px;
+}
+.logo3 {
+  width: 300px;
+  margin: 35px;
+}
+.logo4 {
+  width: 300px;
+  margin: 45px;
+}
+.poster1 {
+  height: 300px; 
+  margin: 35px;
+}
+.poster2 {
+  height: 300px; 
+  margin: 35px;
+}
+.poster3 {
+  height: 300px; 
+  margin: 35px;
+}
+.poster4 {
+  height: 300px; 
+  margin: 35px;
+}
+.poster5 {
+  height: 300px;
+  margin; 35px;
+  padding-bottom: 30px;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.photo1{
+  height: 300px; 
+  margin: 20px;
+  padding-left: 15px;
+}
+.photo2{
+  height: 300px; 
+  margin: 20px;
+  justify-content: center;
+}
+.photo3{
+  height: 300px; 
+  margin: 20px;
+  justify-content: center;
+}
+.business1{
+  justify-content: center;
+  width: 100%;
+  padding-bottom: 50px;
+}
+.business2{
+  width: 100%;
+  justify-content: center;
+}
+.business3{
+  width: 100%;
+  justify-content: center;
+    padding-bottom: 50px;
+}
+.href {
+  justify-content: center;
+}
